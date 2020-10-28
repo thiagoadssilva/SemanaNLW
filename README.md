@@ -1,2 +1,2 @@
-# SemanaNLW
-Projeto (mobile e web) desenvolvido na semana NLW com Diego da Rocketseat
+# TreinamentoNlw
+Todo conteúdo do treinamento NLW
